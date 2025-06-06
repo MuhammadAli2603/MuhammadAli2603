@@ -3,7 +3,7 @@
 - 👀 I’m passionate about Data Science, Machine Learning & NLP  
 - 🌱 Currently learning deep learning and building real-world ML projects  
 - 💼 Open to collaboration on open-source and AI-driven products  
-- 📫 Reach me at: muhammadal2603@example.com *(replace with your real email)*  
+- 📫 Reach me at: muhammadaliaps1234@gmail.com 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I turn coffee ☕ into code and chaos into models 🧠  
 
