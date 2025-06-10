@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muhammad Ali!
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+ML+Engineer;Deep+Learning+Enthusiast;AI+Innovation+Builder;Turning+Coffee+into+Code" alt="Typing SVG" />
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🚀 Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,15 +48,15 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAli2603&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAli2603&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAli2603&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -64,7 +64,7 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🌱 [Plant Classifier: ResNet50 → Grad‑CAM Pipeline](https://github.com/MuhammadAli2603/plant-classifier)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAli2603&repo=plant-classifier&theme=radical&hide_border=true)](https://github.com/MuhammadAli2603/plant-classifier)
@@ -96,7 +96,7 @@
 
 ## 📊 Coding Activity
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAli2603&theme=react-dark&hide_border=true&area=true" alt="Coding Activity Graph" />
 </div>
 
@@ -114,7 +114,7 @@
 
 ## 📫 Let's Connect!
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadaliaps1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadAli2603)
@@ -124,10 +124,10 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=MuhammadAli2603&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<div align="center">
+<div align="left">
   <h3>💝 Thanks for visiting my profile! Let's build something amazing together! 🚀</h3>
 </div>
